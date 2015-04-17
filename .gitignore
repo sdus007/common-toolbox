@@ -1,0 +1,17 @@
+gen
+bin
+obj
+proguard
+proguard/*.*
+my-bin
+myAPK
+usage.txt
+mapping.txt
+seeds.txt
+ant-out.txt
+.settings
+bin/*.*
+*.settings
+.settings/*.*
+lint.xml
+checkqbsdk.sh
